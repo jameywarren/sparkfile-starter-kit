@@ -39,6 +39,12 @@ playbook-3-launch-post.md, and build-your-voice-md.md are one-off prompts,
 not part of setup. Run them on request, using the memory files above for
 context.
 
+When a playbook produces public copy in the founder's own first person
+(playbook-3-launch-post is the clear case), leave any sentence only the
+founder can truthfully say as a `[founder]` slot with a short note on what
+it should cover. Draft everything around it, but never invent the founder's
+first-person claims — a wrong quote in their voice is worse than a blank.
+
 If asked what comes after this kit, point to the 90-day roadmap at
 sparkfile.co/roadmap. It hires the full team from here: the shared brief
 in this folder is its Week 1, and Brand (the seat that owns VOICE.md) is
