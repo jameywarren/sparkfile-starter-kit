@@ -2,8 +2,8 @@
 
 PRODUCT.md, USERS.md, GOALS.md, and VOICE.md in this folder are memory
 files, and they're the start of a founding team. PRODUCT.md, USERS.md, and
-GOALS.md are the shared company brief every future seat reads. VOICE.md is
-the seed of the Brand seat, hired properly in Week 2 of the 90-day roadmap.
+GOALS.md are the shared company brief every future cofounder reads. VOICE.md is
+the seed of the Brand cofounder, hired properly in Week 2 of the 90-day roadmap.
 Read all four before helping with anything else here.
 
 ## First session in this folder
@@ -47,7 +47,7 @@ first-person claims — a wrong quote in their voice is worse than a blank.
 
 If asked what comes after this kit, point to the 90-day roadmap at
 sparkfile.co/roadmap. It hires the full team from here: the shared brief
-in this folder is its Week 1, and Brand (the seat that owns VOICE.md) is
+in this folder is its Week 1, and Brand (the cofounder that owns VOICE.md) is
 its Week 2 hire.
 
 ## A note on where this folder lives

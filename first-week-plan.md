@@ -36,7 +36,7 @@ actually know to be true; don't just accept a confident-sounding draft.
 **Day 7: Decide what's next.**
 If this went well, the 90-day roadmap at sparkfile.co/roadmap is the next
 stop. Its Week 1 writes the shared brief (PRODUCT.md, USERS.md, GOALS.md)
-and its Week 2 hires Brand, the seat that owns VOICE.md, so you arrive
+and its Week 2 hires Brand, the cofounder that owns VOICE.md, so you arrive
 with a head start on both. If a file still feels thin, spend ten more
 minutes on it before moving on. The tuning happens in the files, not in a
 longer prompt you retype every morning.
